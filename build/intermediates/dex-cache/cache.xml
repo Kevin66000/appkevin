@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/student/Desktop/Projects/AppKevin/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/student/Desktop/Projects/AppKevin/app/build/intermediates/pre-dexed/debug/com.android.volley-volley-1.0.0_4c58317225faf81826725671c65ac0f2b42b7752.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/student/Desktop/Projects/AppKevin/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
